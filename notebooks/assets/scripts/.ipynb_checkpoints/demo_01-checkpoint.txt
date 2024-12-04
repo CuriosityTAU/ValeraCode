@@ -1,0 +1,10 @@
+# name, type, movement, audio, expression, stop, next(optional)
+# name, condition, perception, value, timeout, next_correct, next_incorrect, next_timeout(optional)
+01, audio_movement, wave left, demo_01_greetings, ,sound
+# 02, waitfor, emotion, happy, 5, 03, 03, 03
+#03, only_audio, , demo_01_question1, ,sound
+#movment_only, stop, , , movement
+#only_audio, , demo_01_hint1, , sound
+#waitfor, gesture, hand_up, 5
+#audio_movement, wave both, demo_01_answer, , sound
+#audio_movement, wave left, demo_01_finish, , sound

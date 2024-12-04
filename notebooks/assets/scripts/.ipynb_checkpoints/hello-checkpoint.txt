@@ -1,0 +1,2 @@
+# type, movement, audio, expression, stop
+from_video, wave_both,,, audio

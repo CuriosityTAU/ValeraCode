@@ -1,0 +1,5 @@
+# type, movement, audio, expression, stop
+audio_movememnt, wave_both, demo_01_greetings, ,sound
+audio_face, , Recording, , audio
+audio_face, , Recording, , audio
+audio_face, , Recording, , audio

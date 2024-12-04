@@ -1,0 +1,4 @@
+# type, movement, audio, expression, stop
+audio_movement, wave_both, Recording, , audio
+audio_face, , Recording, , audio
+audio_face, , Recording, , audio
